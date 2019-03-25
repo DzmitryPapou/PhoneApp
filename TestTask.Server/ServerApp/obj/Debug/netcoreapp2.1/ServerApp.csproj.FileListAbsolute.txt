@@ -1,0 +1,14 @@
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.deps.json
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.runtimeconfig.json
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.runtimeconfig.dev.json
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.dll
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.pdb
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.csprojAssemblyReference.cache
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.csproj.CoreCompileInputs.cache
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorAssemblyInfo.cache
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorAssemblyInfo.cs
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.AssemblyInfoInputs.cache
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.AssemblyInfo.cs
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorTargetAssemblyInfo.cache
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.dll
+H:\Программирование\TsetTasks\TestTask.Server\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.pdb
