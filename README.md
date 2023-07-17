@@ -1,37 +1,37 @@
-# TestTask
-Test task (Texode)
-Разработать клиент серверное приложение для работы с произвольными
-информационными карточками. Информационная карточка состоит из 2 элементов
-информации: названия карточки и графического изображения. В качестве вариантов
-информации можно использовать следующие типы: товары в магазине, книги, мобильные
-телефоны и т.д.
+# Phone App
+Test task for Texode company
+Develop a client-server application to work with arbitrary
+information cards. Information card consists of 2 elements
+information: the name of the card and the graphic image. as options
+information, you can use the following types: goods in the store, books, mobile
+telephones, etc.
 
-Основные требования
-Серверное приложение должно работать по протоколу HTTP REST и использовать
-.NET Core 2.0+. Серверное приложение представляет из себя службу Windows или обычное
-Windows приложение, предоставляющее HTTP API для клиентского приложения. Клиентская
-сторона должна представлять из себя Windows приложение с использованием технологии
-построения графических интерфейсов WPF .NET Framework 4.7
+Primary requirements
+The server application must work over the HTTP REST protocol and use
+.NET Core 2.0+. The server application is a Windows service or a regular
+A Windows application that provides an HTTP API to a client application. Client
+side must be a Windows application using technology
+building GUIs WPF .NET Framework 4.7
 
-Серверная часть
-- загрузка информационных карточек из файла на стороне сервера. Формат файла на
-выбор – JSON, XML
-- сохранение добавленных и изменённых информационных карточек в файл на стороне
-сервера
-- обработка запросов пользовательского GUI на CRUD операции с информационными
-карточками
-- обработка ошибок при работе с клиентом
+Server part
+- loading information cards from a file on the server side. File format on
+choice - JSON, XML
+- saving added and modified information cards to a file on the side
+servers
+- processing user GUI requests for CRUD operations with information
+cards
+- error handling while working with the client
 
-Клиентская часть
-- показ списка информационных карточек в GUI клиентского приложения с
-отображением графических изображений для каждой информационной карточки
-- использование паттерна MVVM
-- поддержка операций CRUD для информационных карточек
-- обработка ошибок при работе с сервером
-- графические изображения могут быть в формате JPG, PNG. Достаточно поддержки
-одного из форматов
-- сортировка информационных карточек по названию (не обязательная функция)
-- возможность удаления нескольких информационных карточек за одну операцию (не
-обязательная функция)
-- проверка ошибок ввода информационных карточке – пустое название и
-отсутствующее изображение (не обязательная функция)
+Client side
+- displaying a list of information cards in the GUI of the client application with
+display of graphic images for each information card
+- using the MVVM pattern
+- support for CRUD operations for information cards
+- error handling when working with the server
+- graphic images can be in JPG, PNG format. Enough Support
+one of the formats
+- sorting information cards by name (optional)
+- the ability to delete several information cards in one operation (not
+mandatory function)
+- checking for errors in entering information cards - an empty name and
+missing image (optional)
