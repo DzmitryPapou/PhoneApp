@@ -1,5 +1,6 @@
 # Phone App
-Test task for Texode company
+Test task for Texode company.
+
 Develop a client-server application to work with arbitrary
 information cards. Information card consists of 2 elements
 information: the name of the card and the graphic image. as options
